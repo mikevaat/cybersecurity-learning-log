@@ -2,7 +2,7 @@
 Documenting my cybersecurity and ethical hacking journey
 ## TS Academy – Cisco Packet Tracer Labs  
 **Instructor:** Favoured Onoko  
-**Documented on mobile • March 2026 • Abuja, Nigeria**
+**Documented on 16th March 2026
 
 ### Packet Sniffer / Simulation Mode (Exercise 1)
 **Objective:** Understand why hubs are insecure and how packets behave in a network.  
@@ -14,7 +14,7 @@ Documenting my cybersecurity and ethical hacking journey
 
 **Key takeaway:** Hubs broadcast everything — no security, packets are visible to all devices.
 
-![Packet Tracer Simulation Mode - Packet Sniffer](packet-tracer-simulation-packet-sniffer.png)
+![Packet Tracer Simulation Mode - Packet Sniffer](packet-tracer-dns.jpg)
 
 ### Simple LAN → Star Topology → DNS Server (Exercises 2–4)
 **Objective:** Build a complete small-office LAN with 2 PCs, 2 laptops, and a DNS server.  
