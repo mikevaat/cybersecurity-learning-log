@@ -7,7 +7,7 @@ Deep dive into what a Security Operations Center (SOC) is and the different SOC 
 
 **SOC Models Diagram**
 
-![SOC Types and Models](/letsdefend-soc-types-and-roles.png)
+![SOC Types and Models](images/letsdefend-soc-types-and-roles.png)
 
 **What I Learned**  
 - Definition and purpose of a SOC  
