@@ -36,7 +36,7 @@ The standard process follows these five phases:
 - Collect supporting evidence (logs, alerts, endpoint data)
 
 **Alert Classification (Live Class)**  
-![Classification of Incident Alerts](images/classification-alerts.jpg)
+![Classification of Incident Alerts](/classification-alerts.jpg)
 
 - **True Positive (TP)**: The alert was genuine and a real security incident occurred. The detection system correctly identified a threat.  
 - **False Positive (FP)**: The alert was generated, but no real security incident occurred (a benign event was flagged as malicious). This is a common issue in SOCs and requires analyst time to investigate and close.
@@ -62,7 +62,7 @@ The standard process follows these five phases:
 - Update processes and tools
 
 ## Escalation & Communication (Live Class)
-![Escalation & Communication](images/escalation-communication.jpg)
+![Escalation & Communication](/escalation-communication.jpg)
 
 **When to Escalate**:
 - Incident is high-risk  
