@@ -7,7 +7,7 @@ Hands-on exploration of centralized log management — a core SOC capability for
 
 **Log Management Interface (Proxy Logs Example)**
 
-![Log Management Table](/letsdefend-log-management.png)
+![Log Management Table](images/letsdefend-log-management.png)
 
 **Logs Analyzed**  
 - Proxy traffic with source/destination IPs, ports, timestamps  
