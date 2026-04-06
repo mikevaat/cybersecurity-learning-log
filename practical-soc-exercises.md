@@ -11,7 +11,7 @@ In the SOC Fundamentals room I learned the core SOC team structure, processes, a
 **What the Alert Showed**  
 A malicious file was detected on host **GEORGE PC** at 13:20 on June 5, 2024.
 
-![SOC Fundamentals Malware Alert - 5Ws Analysis](/thm-soc-fundamentals-malware-alert.png)
+![SOC Fundamentals Malware Alert - 5Ws Analysis](images/thm-soc-fundamentals-malware-alert.png)
 
 **5 Ws Analysis Table (My Completed Investigation)**
 
@@ -43,7 +43,7 @@ This practical lab placed me directly in the role of a **Junior Security Analyst
 
 **SIEM Dashboard Snapshot (My Investigation)**
 
-![Junior Security Analyst SIEM Dashboard](/thm-junior-security-analyst-siem.png)
+![Junior Security Analyst SIEM Dashboard](images/thm-junior-security-analyst-siem.png)
 
 **Key Alerts Investigated**  
 - **Critical**: Successful SSH login from suspicious IP `221.181.185.159`  
