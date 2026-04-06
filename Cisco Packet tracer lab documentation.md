@@ -17,7 +17,7 @@ Documenting my cybersecurity and ethical hacking journey
 ### Simple LAN → Star Topology → DNS Server (Exercises 2–4)
 **Objective:** Build a complete small-office LAN with 2 PCs, 2 laptops, and a DNS server.  
 
-![Cisco Packet Tracer – Full DNS Server Setup](packet-tracer-dns-server-setup.jpg)  
+![Cisco Packet Tracer – Full DNS Server Setup](images/packet-tracer-dns-server-setup.jpg)  
 *Final topology: 2960 Switch + Server0 (192.168.1.50) with tsacademy.com A-record. All devices reachable.*
 
 **What was done:**  
