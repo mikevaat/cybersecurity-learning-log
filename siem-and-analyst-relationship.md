@@ -7,7 +7,7 @@ Explored how SOC analysts interact with SIEM solutions (IBM QRadar, ArcSight ESM
 
 **SIEM Alerts Dashboard (My View)**
 
-![SIEM Alerts Table](/letsdefend-siem-analyst-alerts.png)
+![SIEM Alerts Table](images/letsdefend-siem-analyst-alerts.png)
 
 **Key Alerts Reviewed**  
 - High: Suspicious PowerShell Script Executed  
