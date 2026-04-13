@@ -101,5 +101,7 @@ The main insight from this exercise is the sheer amount of metadata visible in p
 - `tcp.flags.reset == 1`
 - `tcp.len > 1000`
 
+---
+
   
-**![Sample_pcap_file](files/network-forensics.pcap)**
+### **The raw capture file is included in `/files/network_forensics.pcap`**
