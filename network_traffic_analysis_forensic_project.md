@@ -102,4 +102,4 @@ The main insight from this exercise is the sheer amount of metadata visible in p
 - `tcp.len > 1000`
 
   
-**![Sample_pcap_file](files/sample.pcap)**
+**![Sample_pcap_file](files/network-forensics.pcap)**
