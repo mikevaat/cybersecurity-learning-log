@@ -15,7 +15,7 @@ My first objective was to discover any "hidden" or restricted application paths.
 ### Procedure
 
 * Navigate to the application root in the browser.
-* Inspect common sensitive files. We targeted /robots.txt to identify directories that search engine crawlers are requested not to index.
+* Inspect common sensitive files. I targeted /robots.txt (a file which is industry standard for almost all public-facing websites; essentially to manage how people (or in this case, bots) interact with their property.to identify directories that search engine crawlers are requested not to index)
 
 ![Initial_Recon](images/owasp-lab-SDE-robots.txt-found.png)
 
